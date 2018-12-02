@@ -1,4 +1,4 @@
-# SentimentAnalysis
+# Sentiment Analysis
 
 The Women's Clothing E-Commerce Reviews is used as the dataset for this project. 
 
